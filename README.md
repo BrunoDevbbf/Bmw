@@ -9,7 +9,7 @@ Projeto desenvolvido com representação da pagina da Bmw para seleção de cor 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/goblinread.jpeg" width="100%">
+  <a href="https://brunodevbbf.github.io/Bmw/">Visualizar</a>
 </p>
 
 ## 🚀 Tecnologias
