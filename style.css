@@ -76,3 +76,88 @@ nav .btn{
 	background: black;
 }
 
+@media screen and (max-width: 1200px) {
+	.container h1{
+		font-size: 65px;
+    	margin-bottom: 30px;
+		height: 730px;				
+	}
+	.content p{
+		font-size: 22px;
+		margin: auto;
+		min-width: fit-content;
+	}
+	.content{
+		text-align: center;
+	}
+	.btn{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 15px;
+	}
+	 .colour-select{
+		display: inline-flex;
+	 }
+	#bike{
+		height: auto;
+	 }
+  }
+
+@media screen and (max-width: 600px) {
+	.container h1{
+		font-size: 50px;
+    	margin-top: 10px;
+    	margin-bottom: 30px;
+		height: 400px;				
+	}
+	.content p{
+		font-size: 20px;
+		margin: auto;
+	}
+	.content{
+		text-align: center;
+	}
+	.btn{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 15px;
+	}
+	 .colour-select{
+		display: inline-flex;
+	 }
+	#bike{
+		height: auto;
+	 }
+  }
+
+@media screen and (max-width: 400px) {
+	.container h1{
+		font-size: 50px;
+    	margin-top: 10px;
+    	margin-bottom: 30px;
+		height: 250px;				
+	}
+	.content p{
+		font-size: 25px;
+	}
+	.content{
+		text-align: center;
+	}
+	.btn{
+		width: 20px;
+		height: 20px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 10px;
+	}
+	 .colour-select{
+		display: inline-flex;
+	 }
+	#bike{
+		height: 600px;
+	 }
+  }
+
